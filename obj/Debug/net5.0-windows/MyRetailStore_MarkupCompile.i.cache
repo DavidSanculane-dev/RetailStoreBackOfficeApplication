@@ -1,0 +1,20 @@
+﻿MyRetailStore
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\David.Sanculane\Documents\MEUS PROJECTOS\RetailStoreBackOfficeApplication\obj\Debug\net5.0-windows\
+MyRetailStore
+none
+false
+TRACE;DEBUG;NET;NET5_0;NETCOREAPP
+C:\Users\David.Sanculane\Documents\MEUS PROJECTOS\RetailStoreBackOfficeApplication\App.xaml
+291318624241
+
+55-783585072
+2071297374507
+Templates.xaml;Views\LoginView.xaml;Views\MainView.xaml;Views\UserControlView\AddStoreView.xaml;Views\UserControlView\BindablePasswordBox.xaml;Views\UserControlView\CreateItemView.xaml;Views\UserControlView\DashboardView.xaml;Views\UserControlView\ItemCategoryView.xaml;Views\UserControlView\PurchaseRecord.xaml;Views\UserControlView\SalesRecord.xaml;Views\UserControlView\SupplierManagementView.xaml;Views\UserControlView\UserManagementView.xaml;Views\Windows\AddCategoryView.xaml;Views\Windows\AddNewItemView.xaml;Views\Windows\AddPurchaseItemView.xaml;Views\Windows\AddSalesItemView.xaml;Views\Windows\AddSuplierView.xaml;Views\Windows\AddUserView.xaml;Views\Windows\CreateNewUsr.xaml;Views\Windows\CreatePurchaseInvoiceView.xaml;Views\Windows\CreateSalesInvoiceView.xaml;Views\Windows\UpdateCategoryView.xaml;Views\Windows\UpdateItemDetailsView.xaml;Views\Windows\UpdatePurchaseInvoiceView.xaml;Views\Windows\UpdatePurchaseItemView.xaml;Views\Windows\UpdateSalesInvoiceView.xaml;Views\Windows\UpdateSalesItemView.xaml;Views\Windows\UpdateSupplierView.xaml;Views\Windows\UpdateUserView.xaml;
+
+False
+
